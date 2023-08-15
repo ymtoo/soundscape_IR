@@ -4,6 +4,9 @@ requires = [
 ]
 build-backend = "setuptools.build_meta"
 
+[tool.setuptools]
+py-modules = []
+
 [project]
 name = "soundscape_IR"
 version = "1.1.0"
