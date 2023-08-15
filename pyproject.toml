@@ -19,7 +19,7 @@ dependencies = [
     "numpy",
     "scipy",
     "matplotlib",
-    "plotly=",
+    "plotly",
     "pandas",
     "geopandas",
     "audioread",
